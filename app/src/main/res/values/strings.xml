@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MysqlApp</string>
+    <string name="login_button">Se connecter</string>
+    <string name="email_hint">Adresse email</string>
+    <string name="username_hint">Nom d\'utilisateur ou adresse email</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="old_password_hint">Ancien mot de passe</string>
+    <string name="new_password_hint">Nouveau mot de passe</string>
+    <string name="password_repeat_hint">Confirmez votre mot de passe</string>
+    <string name="register_button">S\'inscrire</string>
+    <string name="placeholder">Id</string>
+    <string name="username_label">Nom d\'utilisateur</string>
+    <string name="email_label">Adresse email</string>
+    <string name="edit_username_button">Modifier le nom d\'utilisateur</string>
+    <string name="edit_email_button">Modifier l\'adresse email</string>
+    <string name="edit_username_hint">Nouveau nom d\'utilisateur</string>
+    <string name="edit_username_repeat_hint">Confirmez le nom d\'utilisateur</string>
+    <string name="edit_email_hint">Nouvelle adresse email</string>
+    <string name="edit_email_repeat_hint">Confinrmez l\'adresse email</string>
+    <string name="edit_password_button">Modifier le mot de passe</string>
+    <string name="logout_button">Se déconnecter</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MysqlApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:editTextColor">@color/primary</item>
+        <item name="android:buttonStyle">@android:style/Widget.Button</item>
+        <item name="android:background">@color/primary_background</item>
+        <item name="android:colorBackground">@color/primary_background</item>
+        <item name="android:windowBackground">@color/primary_background</item>
+        <item name="android:textColorHint">@color/primary_light</item>
+    </style>
+
+    <style name="Theme.MysqlApp" parent="Base.Theme.MysqlApp" />
+</resources>
